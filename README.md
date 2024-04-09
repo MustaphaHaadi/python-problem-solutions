@@ -3,7 +3,7 @@
 
 **Empower Your Python Development**
 
-This repository provides a meticulously curated collection of well-structured, efficient, and extensively documented Python solutions to a wide range of programming challenges. It caters to both novice and experienced Python programmers:
+This repository provides a meticulously curated collection of well-structured, efficient, and extensively commentted Python solutions to a wide range of programming challenges. It caters to both novice and experienced Python programmers:
 
 * **Novice Programmers:** Cultivate your problem-solving prowess and gain exposure to diverse programming paradigms through exploration of these solutions.
 * **Experienced Developers:** Enhance your coding practices and discover innovative approaches to tackle common programming obstacles.
